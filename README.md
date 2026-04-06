@@ -1,2 +1,2 @@
 # Prime-Algorithm
-Bu proje, Java programlama dilini kullanarak bir sayının asal olup olmadığını tespit eden basit bir konsol uygulamasıdır. İlk başta sayı 2'den küçükse direkt asal değil olarak çıktı eder. Eğer sayı 2'den büyükse ya da eşitse de sayının 2'ye eşit olup olmadığına bakar. Eğer sayı 2'ye eşitse asaldır çıktı eder. Değilse asallığı kontrol edilir.
+This project is a simple console application that determines whether a number is prime using the Java programming language. Initially, if the number is less than 2, it outputs "not prime" directly. If the number is greater than or equal to 2, it checks if the number is equal to 2. If it is equal to 2, it outputs "prime." Otherwise, its primality is checked.
